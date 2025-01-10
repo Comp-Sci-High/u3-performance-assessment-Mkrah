@@ -4,10 +4,22 @@
 
 .cinzel {
     font-family: "Cinzel", serif;
+    font-size:xx-large;
+    color: goldenrod;
   }
   
   .mono {
     font-family: "Major Mono Display", serif;
+    font-size: large;
+    color: crimson;
   }
   
-  
+  .iceland {
+    font-family: "Iceland", serif;
+    font-size: x-large;
+    color: rgb(207, 127, 36)
+  }
+
+  .black {
+    background-color: black;
+  }
